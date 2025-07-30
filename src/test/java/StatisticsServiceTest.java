@@ -1,6 +1,8 @@
-import org.example.StatisticsService;
-import org.junit.Test;
+
+
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Test;
+import ru.netology.statistic.StatisticsService;
 
 public class StatisticsServiceTest {
     @Test
